@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 ## 📫 Connect
 <a href="https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a> &nbsp; 
-<a href="mailto:yeanjae0312@hanmail.net"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=Gmail&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a>
+<a href="mailto:yeanjae0312@daum.net"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=Gmail&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a>
 <br><br>
 ## :books: Skills
 #### Languages
