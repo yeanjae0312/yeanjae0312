@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeanjae0312&show_icons=true&theme=react) <br>
-
+<br>
+## 📫 Connect
+<a href="https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a> &nbsp; 
+<a href="mailto:yeanjae0312@hanmail.net"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=Gmail&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a>
+<br><br>
 ## :books: Skills
 #### Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="25px"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="25px"/> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="25px"/> &nbsp; <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" height="25px"/> &nbsp; <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" height="25px"/>
