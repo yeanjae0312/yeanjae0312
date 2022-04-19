@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeanjae0312&show_icons=true&theme=react) <br>
 <br>
 ## 📫 Connect
-<a href="https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a> &nbsp; 
+<a href="https://yeoonzai.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://aquatic-mastodon-58a.notion.site/STORAGE-2e1a002b50944504865ab7aa139aabb3" height="25px"/></a> &nbsp; 
 <br><br>
 ## :books: Skills
 #### Languages
